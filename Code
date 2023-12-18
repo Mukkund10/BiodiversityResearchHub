@@ -1,0 +1,5 @@
+Analysis_Code : Store scripts and code used for data analysis, statistical modeling and visualisation.
+
+Data_Processing_Scripts : Include scripts for cleaning, transforming and processing raw biodiversity data.
+
+Model_Code : Store code related to any models or algorithms used in the research.
